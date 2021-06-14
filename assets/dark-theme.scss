@@ -1,0 +1,61 @@
+---
+---
+
+body {
+  background: black !important;
+  color: white !important;
+}
+
+a {
+  &:hover {
+    color: white !important;
+  }
+}
+
+pre,
+code {
+  background: black !important;
+}
+
+table {
+  tr {
+    &:nth-child(even) {
+      color: black !important;
+    }
+
+    &:nth-child(odd) {
+      color: white !important;
+    }
+  }
+
+  th {
+    color: black !important;
+  }
+}
+
+.highlight {
+  .highlighter-rouge & {
+    background: black !important;
+  }
+}
+
+.site-title {
+  &,
+  &:visited {
+    color: white !important;
+  }
+}
+
+.site-nav {
+  background: black !important;
+
+  .page-link {
+    color: white !important;
+  }
+
+  .menu-icon {
+    > svg {
+      fill: white !important;
+    }
+  }
+}

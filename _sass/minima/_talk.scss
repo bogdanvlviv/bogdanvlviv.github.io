@@ -1,0 +1,33 @@
+/**
+ * Talk
+ */
+.talk {
+}
+
+.talk-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: $base-margin-bottom;
+}
+
+.talk-content {
+}
+
+.talk-hidden-content {
+  display: none;
+}
+
+.talk-slide {
+}
+
+.talk-slide-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.talk-slide-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

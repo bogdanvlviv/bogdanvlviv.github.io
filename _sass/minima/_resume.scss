@@ -1,0 +1,26 @@
+/**
+ * Resume
+ */
+.resume {
+  .name {
+    text-align: center;
+  }
+
+  .photo {
+    margin-bottom: $base-margin-bottom;
+    text-align: center;
+
+    img {
+      width: 230px;
+    }
+  }
+
+  .info {
+  }
+
+  .resume-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+    float: right;
+  }
+}

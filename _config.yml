@@ -1,0 +1,28 @@
+# Site settings
+title: "bogdanvlviv"
+email: "bogdanvlviv@gmail.com"
+description: "@rails contributor. ruby developer. open source. books. running. ynwa."
+baseurl: ""
+url: "https://bogdanvlviv.com"
+image: "/images/main.jpg"
+username: "bogdanvlviv"
+github_username: "bogdanvlviv"
+gitlab_username: "bogdanvlviv"
+revue_username: "bogdanvlviv"
+twitter_username: "bogdanvlviv"
+google_maps_key: "AIzaSyALU_NaFdHwud0rA0paeA2_KAq0FRFoemc"
+date_format: "%B %-d, %Y"
+lang: "en"
+
+# Build settings
+markdown: kramdown
+collections:
+  posts:
+    permalink: /:categories/:title.html
+exclude:
+  - docker-compose.yml
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - Makefile

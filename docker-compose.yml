@@ -1,0 +1,27 @@
+version: '3.7'
+
+x-app: &app
+  build:
+    context: .
+    dockerfile: ./Dockerfile
+    args:
+      RUBY_VERSION: '3.0.1'
+      BUNDLER_VERSION: '2.2.16'
+  image: bogdanvlviv_com:1.0.0
+  stdin_open: true
+  tty: true
+  volumes:
+   - .:/app:cached
+   - bundle:/usr/local/bundle
+  tmpfs:
+    - /tmp
+
+services:
+  jekyll:
+    <<: *app
+    command: 'bundle exec jekyll serve --drafts --host 0.0.0.0'
+    ports:
+      - '4000:4000'
+
+volumes:
+  bundle:

@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /robots.txt
+---
+
+User-agent: *
+Disallow: /twitter/
+Sitemap: {{ "/sitemap.xml" | absolute_url }}

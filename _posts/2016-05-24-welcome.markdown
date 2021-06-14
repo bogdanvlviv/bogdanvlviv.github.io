@@ -1,0 +1,23 @@
+---
+layout: post
+lang: "en"
+title: "Welcome!"
+author: "bogdanvlviv"
+date: 2016-05-24 21:02:31 +0300
+categories: posts
+permalink: /:categories/:title.html
+---
+
+Welcome to my website!
+
+I built [{{ site.title }}]({{ site.url }}) with Jekyll and Minima.
+
+Check out the [Jekyll][jekyll] for more info. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh].
+
+Check out the [Minima][minima] for more info. File all bugs/feature requests at [Minima’s GitHub repo][minima-gh].
+
+[jekyll]: https://jekyllrb.com
+[jekyll-gh]: https://github.com/jekyll/jekyll
+
+[minima]: https://jekyll.github.io/minima
+[minima-gh]: https://github.com/jekyll/minima

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+
+    <p class="post-meta">
+      Posted by <span itemprop="author">{{ page.author }}</span> / <time datetime="{{ page.date }}" itemprop="datePublished">{{ page.date | date: site.date_format }}</time>
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
+
+{%- include twitter.html -%}

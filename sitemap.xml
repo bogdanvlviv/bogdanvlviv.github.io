@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/">
+  {%- for document in site.documents -%}
+  <url>
+    <loc>{{ document.url | absolute_url }}</loc>
+    <lastmod>{{ document.date | date_to_xmlschema }}</lastmod>
+  </url>
+  {%- endfor -%}
+
+  {%- for page in site.pages -%}
+  <url>
+    <loc>{{ page.url | absolute_url }}</loc>
+  </url>
+  {%- endfor -%}
+</urlset>

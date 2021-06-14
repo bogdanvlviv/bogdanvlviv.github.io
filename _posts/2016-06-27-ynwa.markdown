@@ -1,0 +1,65 @@
+---
+layout: post
+lang: "en"
+title: "YNWA"
+author: "bogdanvlviv"
+date: 2016-06-27 06:00:42 +0300
+categories: posts
+permalink: /:categories/:title.html
+---
+
+## You'll Never Walk Alone
+
+When you walk through a storm<br/>
+Hold your head up high<br/>
+And don't be afraid of the dark<br/>
+At the end of a storm<br/>
+There's a golden sky<br/>
+And the sweet silver song of a lark<br/>
+Walk on through the wind<br/>
+Walk on through the rain<br/>
+Though your dreams be tossed and blown<br/>
+Walk on walk on<br/>
+With hope in your heart<br/>
+And you'll never walk alone<br/>
+You'll never walk alone<br/>
+Walk on walk on<br/>
+With hope in your heart<br/>
+And you'll never walk alone<br/>
+You'll never walk alone<br/>
+
+## Gerry and the Pacemakers - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/OV5_LQArLa0" frameborder="0" allowfullscreen></iframe>
+
+## Stadionversion - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/g3UYNYxdIuM" frameborder="0" allowfullscreen></iframe>
+
+## Die Toten Hosen - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/B19OYhjV1dU" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/pRSiUOcd6V0" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/TV0nqTj_wLc" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/CF17KioIvsE" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/WTVXyRGju3k" frameborder="0" allowfullscreen></iframe>
+
+## Regine Velasquez - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/ec8oKBzF1Bo" frameborder="0" allowfullscreen></iframe>
+
+## Lee Towers - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/t09F-_UsGNc" frameborder="0" allowfullscreen></iframe>
+
+## Lana Del Rey - You'll Never Walk Alone
+
+<iframe src="https://www.youtube.com/embed/EqFkraaM4Aw" frameborder="0" allowfullscreen></iframe>
+
+## Adrian Bradbury - You'll Never Walk Alone (Orchestral Version)
+
+<iframe src="https://www.youtube.com/embed/44vAH8c23Eo" frameborder="0" allowfullscreen></iframe>

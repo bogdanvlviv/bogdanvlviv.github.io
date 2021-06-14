@@ -1,0 +1,42 @@
+---
+layout: default
+title: "Blog"
+link_in_header: true
+permalink: /posts.html
+---
+
+<div class="posts">
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  <p>
+    Subscribe via <a href="{{ "/feed.json" | absolute_url }}" target="_blank">JSON Feed</a> or <a href="{{ "/feed.xml" | absolute_url }}" target="_blank">Atom Feed</a>.
+  </p>
+
+  <p>
+    Ruby: <a href="{{ "/feed-ruby.json" | absolute_url }}" target="_blank">JSON Feed</a>, <a href="{{ "/feed-ruby.xml" | absolute_url }}" target="_blank">Atom Feed</a>.
+  </p>
+
+  {%- if site.revue_username -%}
+  <p>
+    <a href="https://www.getrevue.co/profile/{{ site.revue_username }}" target="_blank">Subscribe to Bogdan's mailing list</a>.
+  </p>
+  {%- endif -%}
+
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">Posts</h2>
+
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      <h3 class="post-heading">
+        <a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      </h3>
+
+      <span class="post-meta">
+        Posted by <span itemprop="author">{{ post.author }}</span> / <time datetime="{{ post.date }}" itemprop="datePublished">{{ post.date | date: site.date_format }}</time>
+      </span>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>

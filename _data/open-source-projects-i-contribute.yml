@@ -1,0 +1,157 @@
+- title: "Ruby on Rails"
+  link: "https://rubyonrails.org"
+  links:
+    - "https://contributors.rubyonrails.org/contributors/bogdanvlviv/commits"
+    - "https://github.com/rails/rails/pulls?q=author%3Abogdanvlviv"
+    - "https://github.com/rails/webpacker/pulls?q=author%3Abogdanvlviv"
+
+- title: "GitLab"
+  link: "https://gitlab.com"
+  links:
+    - "https://gitlab.com/gitlab-org/gitlab/merge_requests?scope=all&state=all&author_username=bogdanvlviv"
+    - "https://gitlab.com/gitlab-org/gitlab-foss/merge_requests?scope=all&state=all&author_username=bogdanvlviv"
+    - "https://gitlab.com/gitlab-org/gitlab-development-kit/merge_requests?scope=all&state=all&author_username=bogdanvlviv"
+    - "https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&state=all&author_username=bogdanvlviv"
+
+- title: "Ruby Programming Language"
+  link: "https://www.ruby-lang.org"
+  links:
+    - "https://github.com/ruby/ruby/pulls?q=author%3Abogdanvlviv"
+    - "https://bugs.ruby-lang.org/users/11231"
+
+- title: "heartcombo/devise"
+  link: "https://github.com/heartcombo/devise"
+  links:
+    - "https://github.com/heartcombo/devise/pulls?q=author%3Abogdanvlviv"
+
+- title: "tolk/tolk"
+  link: "https://github.com/tolk/tolk"
+  links:
+    - "https://github.com/tolk/tolk/pulls?q=author%3Abogdanvlviv"
+
+- title: "Elasticsearch"
+  link: "https://www.elastic.co"
+  links:
+    - "https://github.com/elastic/elasticsearch-ruby/pulls?q=author%3Abogdanvlviv"
+    - "https://github.com/elastic/elasticsearch-rails/pulls?q=author%3Abogdanvlviv"
+
+- title: "rubocop-hq/rubocop"
+  link: "https://github.com/rubocop-hq/rubocop"
+  links:
+    - "https://github.com/rubocop-hq/rubocop/pulls?q=author%3Abogdanvlviv"
+
+- title: "bogdanvlviv/minitest-mock_expectations"
+  link: "https://github.com/bogdanvlviv/minitest-mock_expectations"
+
+- title: "bogdanvlviv/i-vagrant"
+  link: "https://gitlab.com/bogdanvlviv/i-vagrant"
+
+- title: "Redis"
+  link: "https://redis.io"
+  links:
+    - "https://github.com/antirez/redis/pulls?q=author%3Abogdanvlviv"
+
+- title: "Jekyll"
+  link: "https://jekyllrb.com"
+  links:
+    - "https://github.com/jekyll/jekyll/pulls?q=author%3Abogdanvlviv"
+    - "https://github.com/jekyll/minima/pulls?q=author%3Abogdanvlviv"
+
+- title: "RubyGems.org"
+  link: "https://rubygems.org"
+  links:
+    - "https://github.com/rubygems/rubygems.org/pulls?q=author%3Abogdanvlviv"
+
+- title: "amatsuda/jb"
+  link: "https://github.com/amatsuda/jb"
+  links:
+    - "https://github.com/amatsuda/jb/pulls?q=author%3Abogdanvlviv"
+
+- title: "Solidus"
+  link: "https://solidus.io"
+  links:
+    - "https://github.com/solidusio/solidus/pulls?q=author%3Abogdanvlviv"
+
+- title: "tjgrathwell/rails5-spec-converter"
+  link: "https://github.com/tjgrathwell/rails5-spec-converter"
+  links:
+    - "https://github.com/tjgrathwell/rails5-spec-converter/pulls?q=author%3Abogdanvlviv"
+
+- title: "westonganger/protected_attributes_continued"
+  link: "https://github.com/westonganger/protected_attributes_continued"
+  links:
+    - "https://github.com/westonganger/protected_attributes_continued/pulls?q=author%3Abogdanvlviv"
+
+- title: "bogdanvlviv/general_time"
+  link: "https://github.com/bogdanvlviv/general_time"
+
+- title: "Shopify/bootboot"
+  link: "https://github.com/Shopify/bootboot"
+  links:
+    - "https://github.com/Shopify/bootboot/pulls?q=author%3Abogdanvlviv"
+
+- title: "bogdanvlviv/dottmux"
+  link: "https://gitlab.com/bogdanvlviv/dottmux"
+
+- title: "bogdanvlviv/dotvim"
+  link: "https://gitlab.com/bogdanvlviv/dotvim"
+
+- title: "bogdanvlviv/dotX"
+  link: "https://gitlab.com/bogdanvlviv/dotX"
+
+- title: "bogdanvlviv/windows10vagrantbox"
+  link: "https://gitlab.com/bogdanvlviv/windows10vagrantbox"
+
+- title: "bogdanvlviv/bogdanvlviv.gitlab.io"
+  link: "https://gitlab.com/bogdanvlviv/bogdanvlviv.gitlab.io"
+
+- title: "thoughtbot/factory_bot"
+  link: "https://github.com/thoughtbot/factory_bot"
+  links:
+    - "https://github.com/thoughtbot/factory_bot/pulls?q=author%3Abogdanvlviv"
+
+- title: "matenia/bootstrap-kaminari-views"
+  link: "https://github.com/matenia/bootstrap-kaminari-views"
+  links:
+    - "https://github.com/matenia/bootstrap-kaminari-views/pulls?q=author%3Abogdanvlviv"
+
+- title: "hisea/devise-bootstrap-views"
+  link: "https://github.com/hisea/devise-bootstrap-views"
+  links:
+    - "https://github.com/hisea/devise-bootstrap-views/pulls?q=author%3Abogdanvlviv"
+
+- title: "RailsApps/rails-devise-roles"
+  link: "https://github.com/RailsApps/rails-devise-roles"
+  links:
+    - "https://github.com/RailsApps/rails-devise-roles/pulls?q=author%3Abogdanvlviv"
+
+- title: "ggreer/the_silver_searcher"
+  link: "https://github.com/ggreer/the_silver_searcher"
+  links:
+    - "https://github.com/ggreer/the_silver_searcher/pulls?q=author%3Abogdanvlviv"
+
+- title: "RVM"
+  link: "https://rvm.io"
+  links:
+    - "https://github.com/rvm/rvm1-ansible/pulls?q=author%3Abogdanvlviv"
+    - "https://github.com/rvm/rvm-site/pulls?q=author%3Abogdanvlviv"
+
+- title: "pivorak"
+  link: "https://pivorak.com"
+  links:
+    - "https://github.com/pivorakmeetup/pivorak-web-app/pulls?q=author%3Abogdanvlviv"
+
+- title: "lewispb/rubymap"
+  link: "https://github.com/lewispb/rubymap"
+  links:
+    - "https://github.com/lewispb/rubymap/pulls?q=author%3Abogdanvlviv"
+
+- title: "asdf-vm/asdf-ruby"
+  link: "https://github.com/asdf-vm/asdf-ruby"
+  links:
+    - "https://github.com/asdf-vm/asdf-ruby/pulls?q=author%3Abogdanvlviv"
+
+- title: "basecamp/full_request_logger"
+  link: "https://github.com/basecamp/full_request_logger"
+  links:
+    - "https://github.com/basecamp/full_request_logger/pulls?q=author%3Abogdanvlviv"

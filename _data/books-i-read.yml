@@ -1,0 +1,198 @@
+# TODO-shelf
+
+- title: "\"99 Bottles of OOP\" (by Sandi Metz, Katrina Owen)"
+  link: "https://www.sandimetz.com/99bottles"
+  progress: 0
+
+- title: "\"Building Git\" (by James Coglan)"
+  link: "https://shop.jcoglan.com/building-git"
+  progress: 0
+
+- title: "\"Component-Based Rails Applications: Large Domains Under Control\" (by Stephan Hagemann)"
+  link: "https://www.cbra.info/book/index.html"
+  progress: 0
+
+- title: "\"Getting Real: The smarter, faster, easier way to build a successful web application\" (by Basecamp)"
+  link: "https://basecamp.com/books/getting-real"
+  progress: 0
+
+- title: "\"High Performance Browser Networking\" (by Ilya Grigorik)"
+  link: "https://hpbn.co"
+  progress: 0
+
+- title: "\"One Small Step Can Change Your Life: The Kaizen Way\" (by Robert Maurer Ph.D.)"
+  link: "https://www.amazon.com/Small-Step-Change-Your-Life/dp/076118032X"
+  progress: 0
+
+- title: "\"The C Programming Language 2nd Edition\" (by Brian W. Kernighan, Dennis M. Ritchie)"
+  link: "https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628"
+  progress: 0
+
+# Books I am reading
+
+- title: "\"Ти знаєш, що ти - людина\" (by Василь Симоненко)"
+  link: "https://znannia.com.ua/product/ti_znash_sho_ti_lyudina_vibrani_tvori_seriya_klasna_literatura__simonenko_v_"
+  progress: 25
+  start_date: "2020-12-03"
+
+- title: "\"The Richest Man in Babylon\" (by George S. Clason)"
+  link: "https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111"
+  progress: 23
+  start_date: "2020-11-09"
+
+- title: "\"How Linux Works, 2nd Edition\" (by Brian Ward)"
+  link: "https://nostarch.com/howlinuxworks2"
+  progress: 39
+  start_date: "2018-08-18"
+
+- title: "\"Ruby on Rails Guides\""
+  link: "https://edgeguides.rubyonrails.org"
+  progress: 99
+  start_date: "2012-06-27"
+
+# Books I have read
+
+- title: "\"Willpower Doesn't Work: Discover the Hidden Keys to Success\" (by Benjamin Hardy)"
+  link: "https://www.amazon.com/Willpower-Doesnt-Work-Discover-Success/dp/0316441325"
+  progress: 100
+  start_date: "2020-11-08"
+  end_date: "2020-11-29"
+
+- title: "\"The Art of War\" (by Sun Tzu)"
+  link: "https://suntzusaid.com"
+  progress: 100
+  start_date: "2019-11-24"
+  end_date: "2020-11-08"
+
+- title: "\"On Writing Well: The Classic Guide to Writing Nonfiction\" (by William Zinsser)"
+  link: "https://www.amazon.com/gp/product/0060891548"
+  progress: 100
+  start_date: "2018-12-19"
+  end_date: "2019-09-19"
+
+- title: "\"Shape Up: Stop Running in Circles and Ship Work that Matters\" (by Ryan Singer)"
+  link: "https://basecamp.com/shapeup"
+  progress: 100
+  start_date: "2019-07-16"
+  end_date: "2019-08-01"
+
+- title: "\"Confabulations\" (by John Berger)"
+  link: "https://www.penguin.co.uk/books/301/301519/confabulations/9780141984957.html"
+  progress: 100
+  start_date: "2019-02-13"
+  end_date: "2019-04-01"
+
+- title: "\"1984\" (by George Orwell)"
+  link: "https://www.amazon.com/gp/product/0451524934"
+  progress: 100
+  start_date: "2018-10-01"
+  end_date: "2018-12-01"
+
+- title: "\"Crafting Rails 4 Applications\" (by José Valim)"
+  link: "https://pragprog.com/book/jvrails2/crafting-rails-4-applications"
+  progress: 100
+  start_date: "2018-08-05"
+  end_date: "2018-08-06"
+
+- title: "\"The Healthy Programmer\" (by Joe Kutner)"
+  link: "http://healthyprog.com"
+  progress: 100
+  start_date: "2018-06-07"
+  end_date: "2018-08-01"
+
+- title: "\"Designing Your Life\" (by Bill Burnett, Dave Evans)"
+  link: "https://designingyour.life/the-book"
+  progress: 100
+  start_date: "2018-07-01"
+  end_date: "2018-07-29"
+
+- title: "\"It Doesn't Have to Be Crazy at Work\" (by Jason Fried, David Heinemeier Hansson)"
+  link: "https://basecamp.com/books/calm"
+  progress: 100
+  start_date: "2018-06-01"
+  end_date: "2018-06-27"
+
+- title: "\"The Five Dysfunctions of a Team\" (by Patrick Lencioni)"
+  link: "https://www.tablegroup.com/books/dysfunctions"
+  progress: 100
+  start_date: "2018-01-01"
+  end_date: "2018-02-25"
+
+- title: "\"A Dog's Purpose\" (by W. Bruce Cameron)"
+  link: "https://www.amazon.com/Dogs-Purpose-Novel-Humans/dp/0765388111"
+  progress: 100
+  start_date: "2017-12-01"
+  end_date: "2018-01-28"
+
+- title: "\"Ruby Under a Microscope\" (by Pat Shaughnessy)"
+  link: "http://patshaughnessy.net/ruby-under-a-microscope"
+  progress: 100
+  start_date: "2017-08-27"
+  end_date: "2018-01-02"
+
+- title: "\"Refactoring: Ruby Edition\" (by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck)"
+  link: "https://www.amazon.com/gp/product/0321603508"
+  progress: 100
+  start_date: "2017-03-21"
+  end_date: "2017-04-20"
+
+- title: "\"Design Patterns in Ruby\" (by Russ Olsen)"
+  link: "https://www.amazon.com/Design-Patterns-Ruby-Addison-Wesley-Professional/dp/0321490452"
+  progress: 100
+  start_date: "2016-11-01"
+  end_date: "2016-12-17"
+
+- title: "\"Rework\" (by Jason Fried, David Heinemeier Hansson)"
+  link: "https://37signals.com/rework"
+  progress: 100
+  start_date: "2016-11-01"
+  end_date: "2016-12-02"
+
+- title: "\"Remote: Office Not Required\" (by Jason Fried, David Heinemeier Hansson)"
+  link: "https://37signals.com/remote"
+  progress: 100
+  start_date: "2016-11-01"
+  end_date: "2016-11-28"
+
+- title: "\"tmux\" (by Brian P. Hogan)"
+  link: "https://pragprog.com/book/bhtmux/tmux"
+  progress: 100
+  start_date: "2016-11-01"
+  end_date: "2016-11-22"
+
+- title: "\"Performance Reviews\" (by Harvard Business Review)"
+  link: "https://www.amazon.com/Performance-Reviews-HBR-20-Minute-Manager-ebook/dp/B00O92Q6FS"
+  progress: 100
+  start_date: "2016-11-01"
+  end_date: "2016-11-14"
+
+- title: "\"Linux Phrasebook 1st Edition\" (by Scott Granneman)"
+  link: "https://www.amazon.com/Linux-Phrasebook-Scott-Granneman/dp/0672328380"
+  progress: 100
+  start_date: "2015-06-01"
+  end_date: "2015-08-01"
+
+- title: "\"Agile Web Development with Rails 4\" (by Sam Ruby)"
+  link: "https://pragprog.com/book/rails4/agile-web-development-with-rails-4"
+  progress: 100
+  start_date: "2015-01-01"
+  end_date: "2015-03-01"
+
+- title: "\"JavaScript: The Good Parts\" (by Douglas Crockford)"
+  link: "http://shop.oreilly.com/product/9780596517748.do"
+  progress: 100
+  start_date: "2014-06-01"
+  end_date: "2014-09-01"
+
+- title: "\"The Ruby Programming Language\" (by David Flanagan, Yukihiro Matsumoto)"
+  link: "http://shop.oreilly.com/product/9780596516178.do"
+  progress: 100
+  start_date: "2013-01-01"
+  end_date: "2013-03-01"
+
+- title: "\"Learn to Program\" (by Chris Pine)"
+  link: "https://pine.fm/LearnToProgram"
+  progress: 100
+  start_date: "2012-06-01"
+  end_date: "2012-09-01"
+

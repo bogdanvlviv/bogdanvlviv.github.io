@@ -1,0 +1,32 @@
+---
+layout: post
+lang: "en"
+title: "Travels"
+author: "bogdanvlviv"
+date: 2019-01-09 19:13:00 +0200
+categories: posts life
+permalink: /:categories/:title.html
+---
+
+<iframe id="travel-map" src="{{ "/posts/life/travel-map.html" | absolute_url }}">
+</iframe>
+
+<style>
+  #travel-map {
+    min-height: 500px;
+    width: 100%;
+    border: 0;
+    margin-bottom: 15px;
+  }
+</style>
+
+Places I have visited:
+<ul>
+  {%- for place in site.data.places-i-have-visited -%}
+  <li>
+    {{ place.title }}. {{ place.latitude }},{{ place.longitude }}
+  </li>
+  {%- endfor -%}
+</ul>
+
+Travel map: [{{ "/posts/life/travel-map.html" | absolute_url }}]({{ "/posts/life/travel-map.html" | absolute_url }}).

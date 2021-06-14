@@ -1,0 +1,17 @@
+---
+layout: default
+title: ""
+permalink: /index.html
+---
+
+{%- if site.twitter_username -%}
+<div class="tweets">
+  <p>
+    <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter-timeline" data-show-replies="true" data-lang="en" data-chrome="noheader nofooter noborders noscrollbar" target="_blank">
+      Tweets by @{{ site.twitter_username }}
+    </a>
+  </p>
+</div>
+
+{%- include twitter.html -%}
+{%- endif -%}

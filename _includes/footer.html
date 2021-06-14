@@ -1,0 +1,31 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="{{ site.url }}" target="_blank">{{ site.url }}</a></li>
+          {%- if site.github_username -%}
+          <li><a href="https://github.com/{{ site.github_username }}" target="_blank">https://github.com/{{ site.github_username }}</a></li>
+          {%- endif -%}
+          {%- if site.gitlab_username -%}
+          <li><a href="https://gitlab.com/{{ site.gitlab_username }}" target="_blank">https://gitlab.com/{{ site.gitlab_username }}</a></li>
+          {%- endif -%}
+          {%- if site.twitter_username -%}
+          <li><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">https://twitter.com/{{ site.twitter_username }}</a></li>
+          {%- endif -%}
+          {%- if site.email -%}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+    <p>{%- include creativecommons.html -%}</p>
+  </div>
+</footer>
