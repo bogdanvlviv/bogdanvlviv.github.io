@@ -5,7 +5,7 @@ cache:
   - .vendor
 
 before_script:
-  - gem install bundler
+  - gem install bundler:2.2.20
   - bundle install --path .vendor
 
 pages:

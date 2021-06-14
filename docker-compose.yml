@@ -6,7 +6,7 @@ x-app: &app
     dockerfile: ./Dockerfile
     args:
       RUBY_VERSION: '3.0.1'
-      BUNDLER_VERSION: '2.2.16'
+      BUNDLER_VERSION: '2.2.20'
   image: bogdanvlviv_com:1.0.0
   stdin_open: true
   tty: true
